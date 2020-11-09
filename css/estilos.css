@@ -33,7 +33,6 @@ body {
     margin: 0 auto;
 }
 #container h1 {
-<<<<<<< HEAD
     font-size: 16px;
 }
 #footer{
@@ -41,11 +40,4 @@ body {
     color: white;
     text-align: center;
     padding: 10px;
-=======
-    font-size: 20px;
-}
-#post {
-    background: white;
-    padding: 1em;
->>>>>>> header
 }
