@@ -57,7 +57,7 @@ img{
     width: 200px;
     box-shadow: gray 0px 0px 15px 5px;
     border-radius: 20px;
-    
+    margin: 15px;
 }
 #cartelera{
     text-align: center;
