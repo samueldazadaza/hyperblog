@@ -57,4 +57,15 @@ img{
     width: 200px;
     box-shadow: gray 0px 0px 15px 5px;
     border-radius: 20px;
+    
+}
+#cartelera{
+    text-align: center;
+    padding: 15px;
+    background-color: hotpink;
+    border-radius: 20px;
+}
+#fotos{
+    padding: 20px;
+    text-align: center;
 }
