@@ -45,4 +45,10 @@ body {
     padding: 20px;
     color: white;
     margin: 0px;
+    padding: 1em;
+}
+#cuadro{
+    text-align: right;
+    color: white;
+    padding: 15px;
 }
