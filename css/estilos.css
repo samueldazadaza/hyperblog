@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(6, 9, 32);
+    background-color: ;
     color: blue;
     text-align: center;
     font-family: arial;
@@ -38,8 +38,4 @@ body {
 #post {
     background: white;
     padding: 1em;
-}
-#footer{
-    background-color: gray;
-    padding: 15px;
 }
