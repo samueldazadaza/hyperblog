@@ -37,11 +37,12 @@ body {
 }
 #post {
     background: white;
-    padding: 1em;
+    padding: 2em;
 }
 #footer{
     background-color: gray;
     text-align: center;
     padding: 20px;
     color: white;
+    margin: 0px;
 }
