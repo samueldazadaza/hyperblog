@@ -39,3 +39,8 @@ body {
     background: white;
     padding: 1em;
 }
+#cuadro{
+    text-align: right;
+    color: white;
+    padding: 15px;
+}
