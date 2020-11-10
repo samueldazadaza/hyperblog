@@ -62,8 +62,9 @@ img{
 #cartelera{
     text-align: center;
     padding: 15px;
-    background-color: hotpink;
+    background-color: grey;
     border-radius: 20px;
+    color: white;
 }
 #fotos{
     padding: 20px;
